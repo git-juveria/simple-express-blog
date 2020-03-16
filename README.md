@@ -1,8 +1,7 @@
-Simple Express Blog
+<h1> Simple Express Blog </h1>
 
-config.js: this module contains information regarding database.
-setup.js:  "node npm run setup"-> to create the database.
-form.ejs: partial ejs template
-view-post.ejs: displays blog post
-
-index.js: hoards information for routing to different templates
+<strong>config.js</strong>:<p> module comprehends information regarding database.</p>
+<strong>setup.js</strong>: <p><strong>"node npm run setup"</strong> -> to create the database.</p>
+<strong>form.ejs</strong>: <p>partial ejs template</p>
+<strong>view-post.ejs</strong>:<p> displays blog post</p>
+<strong>index.js</strong>: hoards information for routing to different template. To run the blog <strong>node npm run setup</strong>
